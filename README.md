@@ -1,5 +1,5 @@
-### OOP Practice Path
-Demo bank system can realize functionalities - Include open account, add transations, calculate interests and fees. 
+### Bank System with ORM design
+Bank system can realize functionalities - Include open account, add transations, calculate interests and fees. 
 
 Several exceptions handling - Ensure valid inputs, valid transaction sequence, fee calculation frequency control, etc.
 
